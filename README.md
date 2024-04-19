@@ -1,3 +1,3 @@
-# patient_data_processing_script
+# Patient Data Processing Script
 a Python script that efficiently processes patient data from an Excel file using Pandas, OS, and Datetime.It reads the Excel file, extracts relevant patient data from multiple sheets, and allows users to filter the data based on custom conditions. The filtered data can be saved to a new Excel file or appended to an existing one.
 This script is designed as part of an Alzheimer's prevention analysis, where the processed patient data will be used as input for neural network models. By automating the data processing tasks, it helps streamline the analysis pipeline and enables researchers and healthcare professionals to efficiently work with patient data.
